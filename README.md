@@ -2,6 +2,7 @@
 my neovim config
 
 ### Deps
-- unzip
-- ripgrep
-- packer
+- neovim (of course)
+- unzip (for Mason via lsp.zero)
+- ripgrep (for grep via telescope.nvim)
+- packer (to install plugins)
