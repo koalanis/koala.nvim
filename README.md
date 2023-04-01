@@ -1,0 +1,4 @@
+### Deps
+- unzip
+- ripgrep
+- packer
